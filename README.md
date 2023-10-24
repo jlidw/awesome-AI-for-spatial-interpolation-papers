@@ -21,6 +21,14 @@ We can optionally use one of these two items when the range of predicted locatio
 >> \[2\]: Li, Jin, and Andrew D. Heap. A review of spatial interpolation methods for environmental scientists. (2008): 137-145. 
 
 
-### Prediction/Estimation/Inference
+### Interpolation vs. Prediction/Estimation/Inference
+Todo
 
 ## Papers
+### Spatial Interpolation
+- Kriging convolutional networks, in *AAAI* 2020. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5716)  [Code](https://github.com/tufts-ml/KCN)
+
+
+### Spatiotemporal Interpolation
+
+
