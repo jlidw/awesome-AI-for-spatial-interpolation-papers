@@ -26,7 +26,7 @@ Todo
 
 ## Papers
 ### Spatial Interpolation
-- Kriging convolutional networks, in *AAAI* 2020. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5716)  [Code](https://github.com/tufts-ml/KCN)
+- Kriging convolutional networks, in *AAAI* 2020. \[[Paper]\](https://ojs.aaai.org/index.php/AAAI/article/view/5716), \[[Code]\](https://github.com/tufts-ml/KCN)
 
 
 ### Spatiotemporal Interpolation
