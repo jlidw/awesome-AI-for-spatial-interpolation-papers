@@ -3,6 +3,8 @@ Despite recent developments in spatiotemporal data mining, most of which have be
 
 In this repository, a list of papers (with available codes) related to spatial interpolation is given, which will be updated ASAP once the papers are announced in the corresponding top AI conferences/journals. Hope this list can help those interested in AI for Spatial/Spatiotemporal Interpolation Analysis.
 
+Welcome to contribute the related papers. Please open an issue or email me. jlidw\[AT\]connect.ust.hk
+
 ## Foundations
 
 ### Interpolation
