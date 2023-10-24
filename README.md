@@ -26,8 +26,11 @@ Todo
 
 ## Papers
 ### Spatial Interpolation
+- SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation, in *SIGMOD* 2023. [\[Paper\]](https://dl.acm.org/doi/10.1145/3589321), [\[Code\]](https://github.com/jlidw/SSIN)
+- Rainfall Spatial Interpolation with Graph Neural Networks, in *DASFAA* 2023. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_14), [\[Code\]](https://github.com/jlidw/GSI)
+- Deep geometric neural network for spatial interpolation, in *SIGSPATIAL* 2022. [\[Paper\]](https://dl.acm.org/doi/10.1145/3557915.3561008)
 - Kriging convolutional networks, in *AAAI* 2020. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5716), [\[Code\]](https://github.com/tufts-ml/KCN)
-
+  
 
 ### Spatiotemporal Interpolation
 
