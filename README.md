@@ -36,7 +36,8 @@ Todo
   
 
 ### Spatiotemporal Interpolation
-- INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging, in *WWW* 2023. [\[Paper\]](https://arxiv.org/abs/2109.09506)
+- Graph Neural Processes for Spatio-Temporal Extrapolation, in *KDD* 2023. [\[Paper\]](https://arxiv.org/abs/2305.18719), [\[Code\]](https://github.com/hjf1997/STGNP)
+- INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging, in *WWW* 2023. [\[Paper\]](https://arxiv.org/abs/2302.02738), [\[Code\]](https://github.com/zhengchuanpan/INCREASE)
 - Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference, *TNNLS* 2023. [\[Paper\]](https://arxiv.org/abs/2109.09506)
 - Inductive Graph Neural Networks for Spatiotemporal Kriging, in *AAAI* 2021. [\[Paper\]](https://arxiv.org/abs/2006.07527), [\[Code\]](https://github.com/Kaimaoge/IGNNK)
 
