@@ -22,6 +22,8 @@ We can optionally use one of these two items when the range of predicted locatio
 **Spatiotemporal Interpolation<sup>\[3\]</sup>** is an extension of spatial interpolation, which adds a time dimension to spatial data and estimates values at unobserved locations given the values from observed locations **during a period**.
 
 > <sup>\[3\]</sup>Some AI works use **spatiotemporal kriging** to represent the spatiotemporal interpolation task, which is **conceptually wrong**. Kriging is a general term denoting a number of geostatistical techniques for spatial interpolation. Essentially, kriging is a method rather than a task.
+>
+> Besides, the term **Spatiotemporal Kriging** itself is a method of spatiotemporal interpolation assuming both spatial and temporal stationarity, which is an extension of Kriging.
  
 ### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
 Will add the corresponding discussion later.
