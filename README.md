@@ -1,4 +1,6 @@
 # AI for Spatial Interpolation Papers
+Despite recent developments in spatiotemporal data mining, most of which have been on time series forecasting and spatiotemporal forecasting problems, far less attention has been paid to spatial/spatiotemporal interpolation.
+Here, a list of papers (with available codes) related to spatial interpolation is given, which will be updated ASAP once the papers are announced in the corresponding top AI conferences/journals. Hope this list can help those interested in AI for Spatial/Spatiotemporal Interpolation Analysis.
 
 ## Foundations
 **Spatial Interpolation[^1]** is the traditional method for spatial estimation, which is a process of using values at observed locations to estimate values at unobserved ones in geographic space.
