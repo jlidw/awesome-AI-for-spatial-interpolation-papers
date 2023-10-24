@@ -21,11 +21,11 @@ We can optionally use one of these two items when the range of predicted locatio
 >> \[2\]: Li, Jin, and Andrew D. Heap. A review of spatial interpolation methods for environmental scientists. (2008): 137-145. 
 
 
-### Spatial Interpolation vs. Spatial Prediction/Inference
-Todo
+### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
+Will add the corresponding discussion later.
 
-### Interpolation vs. Imputation
-Todo
+### Spatial Interpolation vs. Time Series Imputation
+Spatial interpolation is to “predict” data for **any locations with no historical observations** according to sparse station observations. This problem is fundamentally different and more challenging than multivariate time-series imputation, which assumes data at **certain locations** is **partially missing across time**.
 
 ## Papers
 ### Spatial Interpolation
