@@ -23,7 +23,7 @@ We can optionally use one of these two items when the range of predicted locatio
 
 > <sup>#2</sup>Some AI works use **Spatiotemporal Kriging** to represent the spatiotemporal interpolation task, which is **conceptually wrong**. Kriging[^2] is a general term denoting a number of geostatistical techniques for interpolation. Essentially, kriging is a method rather than a task. Particularly, the term Spatiotemporal Kriging itself is a method of spatiotemporal interpolation based on spatiotemporal covariogram[^3], which is an extension of Kriging.
 [^2]: [Kriging (Wikipedia).](https://en.wikipedia.org/wiki/Kriging#Methods)
-[^3]: Spatial and Spatio-Temporal Geostatistical Modeling and Kriging, *John Wiley & Sons* 2015.
+[^3]: Spatial and Spatio-Temporal Geostatistical Modeling and Kriging, *John Wiley & Sons*, 2015.
  
 ### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
 Will add the corresponding discussion later.
