@@ -18,7 +18,7 @@ Welcome to contribute the related papers. Please open an issue or email me.
 We can optionally use one of these two items when the range of predicted locations is not considered a constraint.
 > 
 > Here, we follow the environmental science \[2\] to use the term **interpolation**, as *all spatial interpolation methods can generate an extrapolation*.
->> \[2\]: Li, Jin, and Andrew D. Heap. A review of spatial interpolation methods for environmental scientists. (2008): 137-145. 
+>> \[2\]: A review of spatial interpolation methods for environmental scientists, *Geoscience Australia* 2008.
 
 
 ### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
