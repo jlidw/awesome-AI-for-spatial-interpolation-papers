@@ -21,7 +21,7 @@ We can optionally use one of these two items when the range of predicted locatio
 ### Spatiotemporal Interpolation
 **Spatiotemporal Interpolation<sup>\[3\]</sup>** is an extension of spatial interpolation, which adds a time dimension to spatial data and estimates values at unobserved locations given the values from observed locations **during a period**.
 
-> <sup>\[3\]</sup>Some AI works use **spatiotemporal kriging** to represent the spatiotemporal interpolation task, which is **conceptually wrong**. Kriging is a general term denoting a number of geostatistical techniques for spatial interpolation. Essentially, kriging is a method rather than a task.
+> <sup>\[3\]</sup>Some AI works use **Spatiotemporal Kriging** to represent the spatiotemporal interpolation task, which is **conceptually wrong**. Kriging is a general term denoting a number of geostatistical techniques for spatial interpolation. Essentially, kriging is a method rather than a task.
 >
 > Besides, the term **Spatiotemporal Kriging** itself is a method of spatiotemporal interpolation assuming both spatial and temporal stationarity, which is an extension of Kriging.
  
@@ -31,13 +31,15 @@ Will add the corresponding discussion later.
 ### Spatial Interpolation vs. Time Series Imputation
 Spatial interpolation is to “predict” data for **any locations with no historical observations** according to sparse station observations. This problem is fundamentally different and more challenging than multivariate time-series imputation, which assumes data at **certain locations** is **partially missing across time**.
 
+## Method Comparison
+Will add a table later.
+
 ## Papers
 ### Spatial Interpolation
 - SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation, in *SIGMOD* 2023. [\[Paper\]](https://dl.acm.org/doi/10.1145/3589321), [\[Code\]](https://github.com/jlidw/SSIN)
 - Rainfall Spatial Interpolation with Graph Neural Networks, in *DASFAA* 2023. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_14), [\[Code\]](https://github.com/jlidw/GSI)
 - Deep geometric neural network for spatial interpolation, in *SIGSPATIAL* 2022. [\[Paper\]](https://dl.acm.org/doi/10.1145/3557915.3561008)
 - Kriging Convolutional Networks, in *AAAI* 2020. [\[Paper\]](https://arxiv.org/abs/2306.09463), [\[Code\]](https://github.com/tufts-ml/KCN)
-  
 
 ### Spatiotemporal Interpolation
 - Graph Neural Processes for Spatio-Temporal Extrapolation, in *KDD* 2023. [\[Paper\]](https://arxiv.org/abs/2305.18719), [\[Code\]](https://github.com/hjf1997/STGNP)
