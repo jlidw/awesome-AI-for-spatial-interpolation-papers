@@ -10,17 +10,19 @@ Welcome to contribute the related papers. Please open an issue or email me.
 ## Foundations
 
 ### Spatial Interpolation
-**Spatial Interpolation \[1\]** is the traditional method for spatial estimation, which is a process of using values at observed locations to estimate values at unobserved ones in geographic space.
+**Spatial Interpolation <sub>\[1\]</sub>** is the traditional method for spatial estimation, which is a process of using values at observed locations to estimate values at unobserved ones in geographic space.
 
-**Spatiotemporal Interpolation** is an extension of spatial interpolation, which adds a time dimension to spatial data and estimates values at unobserved locations given the values from observed locations **during a period**.
-
-> \[1\]: Some works may use another term **extrapolation**. Strictly speaking, interpolation and extrapolation are similar things but different ranges. Interpolation means predicting the values within the spatial range of the known locations, while extrapolation will predict the values outside the spatial range of the known locations.
+> <sub>\[1\]</sub>: Some works may use another term **extrapolation**. Strictly speaking, interpolation and extrapolation are similar things but different ranges. Interpolation means predicting the values within the spatial range of the known locations, while extrapolation will predict the values outside the spatial range of the known locations.
 We can optionally use one of these two items when the range of predicted locations is not considered a constraint.
 > 
-> Here, we follow the environmental science \[2\] to use the term **interpolation**, as *all spatial interpolation methods can generate an extrapolation*.
->> \[2\]: A review of spatial interpolation methods for environmental scientists, *Geoscience Australia*, 2008.
+> Here, we follow the environmental science <sub>\[2\]</sub> to use the term **interpolation**, as *all spatial interpolation methods can generate an extrapolation*.
+>> <sub>\[2\]</sub>: A review of spatial interpolation methods for environmental scientists, *Geoscience Australia*, 2008.
 
+### Spatiotemporal Interpolation
+**Spatiotemporal Interpolation <sub>\[3\]</sub>** is an extension of spatial interpolation, which adds a time dimension to spatial data and estimates values at unobserved locations given the values from observed locations **during a period**.
 
+> <sub>\[3\]</sub>: Some AI works use **spatiotemporal kriging** to represent the spatiotemporal interpolation task, which is conceptually wrong. Kriging is a general term denoting a number of geostatistical techniques for spatial interpolation. Essentially, **Kriging is a method rather than a task**.
+ 
 ### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
 Will add the corresponding discussion later.
 
