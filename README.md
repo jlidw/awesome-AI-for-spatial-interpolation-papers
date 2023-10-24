@@ -1,6 +1,6 @@
 # AI for Spatial Interpolation Papers
 
-## Definition
+## Foundations
 **Spatial Interpolation[^1]** is the traditional method for spatial estimation, which is a process of using values at observed locations to estimate values at unobserved ones in geographic space.
 
 **Spatiotemporal Interpolation** is an extension of spatial interpolation, which adds a time dimension to spatial data and estimates values at unobserved locations given the observations from sampled locations **during a period**.
@@ -11,3 +11,4 @@ Here, we follow the environmental science[^2] to use the term **interpolation**,
 [^2]: Li, Jin, and Andrew D. Heap. "A review of spatial interpolation methods for environmental scientists." (2008): 137-145.
 
 
+## Papers
