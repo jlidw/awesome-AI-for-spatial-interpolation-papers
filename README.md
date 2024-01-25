@@ -28,8 +28,10 @@ We can optionally use one of these two items when the range of predicted locatio
 [^2]: [Kriging (Wikipedia).](https://en.wikipedia.org/wiki/Kriging#Methods)
 [^3]: Spatial and Spatio-Temporal Geostatistical Modeling and Kriging, *John Wiley & Sons*, 2015.
  
-### Spatial Interpolation vs. Spatial Inference/Prediction/Estimation
-Will add the corresponding discussion later.
+### Spatial Interpolation vs. Spatial Prediction
+* Spatial prediction is a larger term, including any method that incorporates spatial dependence to estimate variables at unknown locations. 
+
+* Spatial interpolation is more specific and mainly uses point-based observed variables and sample coordinates to estimate variables at unknown locations.
 
 ### Spatial Interpolation vs. Time Series Imputation
 Spatial interpolation is to “predict” data for **any locations with no historical observations** according to sparse station observations. This problem is fundamentally different and more challenging than multivariate time-series imputation, which assumes data at **certain locations** is **partially missing across time**.
