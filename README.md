@@ -41,12 +41,12 @@ Will add a table later.
 ### Spatial Interpolation
 - SSIN: Self-Supervised Learning for Rainfall Spatial Interpolation, in *SIGMOD* 2023. [\[Paper\]](https://dl.acm.org/doi/10.1145/3589321), [\[Code\]](https://github.com/jlidw/SSIN)
 - Rainfall Spatial Interpolation with Graph Neural Networks, in *DASFAA* 2023. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_14), [\[Code\]](https://github.com/jlidw/GSI)
-- Deep geometric neural network for spatial interpolation, in *SIGSPATIAL* 2022. [\[Paper\]](https://dl.acm.org/doi/10.1145/3557915.3561008)
+- Deep geometric neural network for spatial interpolation, in *SIGSPATIAL* 2022. [\[Paper\]](https://dl.acm.org/doi/10.1145/3557915.3561008), \[Code\]
 - Kriging Convolutional Networks, in *AAAI* 2020. [\[Paper\]](https://arxiv.org/abs/2306.09463), [\[Code\]](https://github.com/tufts-ml/KCN)
 
 ### Spatiotemporal Interpolation
 - Graph Neural Processes for Spatio-Temporal Extrapolation, in *KDD* 2023. [\[Paper\]](https://arxiv.org/abs/2305.18719), [\[Code\]](https://github.com/hjf1997/STGNP)
 - INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging, in *WWW* 2023. [\[Paper\]](https://arxiv.org/abs/2302.02738), [\[Code\]](https://github.com/zhengchuanpan/INCREASE)
-- Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference, in *TNNLS* 2023. [\[Paper\]](https://arxiv.org/abs/2109.09506)
+- Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference, in *TNNLS* 2023. [\[Paper\]](https://arxiv.org/abs/2109.09506), [\[Code\]](https://github.com/hjf1997/DualSTN)
 - Inductive Graph Neural Networks for Spatiotemporal Kriging, in *AAAI* 2021. [\[Paper\]](https://arxiv.org/abs/2006.07527), [\[Code\]](https://github.com/Kaimaoge/IGNNK)
 
