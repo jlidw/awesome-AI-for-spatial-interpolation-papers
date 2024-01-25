@@ -8,7 +8,7 @@ Welcome to contribute the related papers. Please open an issue or email me.
 📧: jlidw\[AT\]connect.ust.hk
 
 ## Keywords
-AI for Spatial Interpolation; AI for Spatial Extrapolation; AI for Spatiotemporal Interpolation; AI for Spatiotemporal Extrapolation;
+Spatial Interpolation; Spatial Extrapolation; Spatiotemporal Interpolation; Spatiotemporal Extrapolation;
 
 ## Foundations
 
