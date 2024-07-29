@@ -54,7 +54,7 @@ Will add a table later.
 - Inductive Graph Neural Networks for Spatiotemporal Kriging, in *AAAI* 2021. [\[Paper\]](https://arxiv.org/abs/2006.07527), [\[Code\]](https://github.com/Kaimaoge/IGNNK)
 
 ### Spatiotemporal Forecasting for Unobserved Locations (New Task)
-- Spatial-temporal Forecasting for Regions without Observations, in *EDBT* 2023. [\[Paper\]](https://arxiv.org/abs/2401.10518), [\[Code\]](https://github.com/suzy0223/STSM) 
+- Spatial-temporal Forecasting for Regions without Observations, in *EDBT* 2024. [\[Paper\]](https://arxiv.org/abs/2401.10518), [\[Code\]](https://github.com/suzy0223/STSM) 
 
   
 
