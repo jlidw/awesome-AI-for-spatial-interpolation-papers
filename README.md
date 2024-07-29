@@ -47,8 +47,14 @@ Will add a table later.
 - Kriging Convolutional Networks, in *AAAI* 2020. [\[Paper\]](https://arxiv.org/abs/2306.09463), [\[Code\]](https://github.com/tufts-ml/KCN)
 
 ### Spatiotemporal Interpolation
+- Inductive and Adaptive Graph Convolution Networks Equipped with Constraint Task for Spatial–temporal Traffic Data Kriging, in *KBS* 2024. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0950705123010730), [\[Code\]](https://github.com/wtl52656/IAGCN)
 - Graph Neural Processes for Spatio-Temporal Extrapolation, in *KDD* 2023. [\[Paper\]](https://arxiv.org/abs/2305.18719), [\[Code\]](https://github.com/hjf1997/STGNP)
 - INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging, in *WWW* 2023. [\[Paper\]](https://arxiv.org/abs/2302.02738), [\[Code\]](https://github.com/zhengchuanpan/INCREASE)
 - Decoupling Long-and Short-Term Patterns in Spatiotemporal Inference, in *TNNLS* 2023. [\[Paper\]](https://arxiv.org/abs/2109.09506), [\[Code\]](https://github.com/hjf1997/DualSTN)
 - Inductive Graph Neural Networks for Spatiotemporal Kriging, in *AAAI* 2021. [\[Paper\]](https://arxiv.org/abs/2006.07527), [\[Code\]](https://github.com/Kaimaoge/IGNNK)
+
+### Spatiotemporal Forecasting for Unobserved Locations (New Task)
+- Spatial-temporal Forecasting for Regions without Observations, in *EDBT* 2023. [\[Paper\]](https://arxiv.org/abs/2401.10518), [\[Code\]](https://github.com/suzy0223/STSM) 
+
+  
 
